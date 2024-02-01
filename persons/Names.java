@@ -1,0 +1,26 @@
+package persons;
+public enum Names {
+    David, 
+    King,
+    Gendalf, 
+    Arthur,
+    John,
+    Mary,    
+    Sarah,
+    Michael,
+    Catherine,
+    Robert,
+    Jennifer,
+    Elizabeth,
+    Kevin,
+    Angela,
+    James,
+    Helen,
+    Timothy,
+    Victoria,
+    Andrew,
+    Jessica,
+    Brian,
+    Donna,
+    Thomas;
+}
